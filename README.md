@@ -8,7 +8,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
-    - [Links](#links)
+    - [Site Link](#site-link)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -16,7 +16,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,11 +25,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ![Desktop View](design/desktop_view.jpeg)
 ![Mobile View](design/mobile_view.jpg)
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+### Site Link
+https://adhik-6.github.io/Recipe_page/
 
 ## My process
 
