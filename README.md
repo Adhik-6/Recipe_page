@@ -26,7 +26,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ![Mobile View](design/mobile_view.jpg)
 
 ### Site Link
-https://adhik-6.github.io/Recipe_page/
+view the live site [here](https://adhik-6.github.io/Recipe_page/)
 
 ## My process
 
